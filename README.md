@@ -1,6 +1,6 @@
 
 
-# Cestionario acerca de css
+# Cuestionario acerca de css
 
 1. **transition**: Esta propiedad se utiliza en CSS para controlar cómo se realizará la transición entre los estados de un elemento. Permite especificar la duración, la función de temporización y otros aspectos de la animación.
 2. **filter**: La propiedad `filter` se utiliza para aplicar efectos visuales a un elemento, como desenfoque, saturación, brillo, etc. Puedes utilizar valores específicos para cada efecto, como `blur()`, `brightness()`, `saturate()`, etc.
